@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stock Target Price Calculator using DCF model</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 50px;
+        padding: 0;
+        text-align: center;
+      }
+      form {
+        margin-bottom: 20px;
+      }
+      input[type="text"] {
+        padding: 10px;
+        font-size: 16px;
+        width: 300px;
+      }
+      input[type="submit"] {
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+      #result {
+        font-size: 20px;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Stock Target Price Calculator DCF model</h1>
+    <form id="stockForm">
+      <input
+        type="text"
+        id="ticker"
+        placeholder="Enter stock ticker (e.g., AAPL)"
+        required
+      />
+      <input type="submit" value="Calculate" />
+    </form>
+    <div id="result"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
