@@ -4,5 +4,10 @@ Read my article to learn <a href="https://site.financialmodelingprep.com/how-to/
 
 The stock target price is calculated using the <a href="https://site.financialmodelingprep.com/discounted-cash-flow-blogs/Calculate-Stock-Target-Price-Using-Discounted-Cash-Flow-Model-and-JavaScript">Discounted Cash Flow Model</a> 
 
+For those who is not a programmer, here is how to make your app running:
+1. Download VScode.
+2. Clone my github repository.
+3. Drag index.html file to the open browser window. 
+
 
 
