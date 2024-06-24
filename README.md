@@ -1,8 +1,5 @@
 # 📈 Stock Analyzer App
 
-![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repository?style=social)
-![GitHub license](https://img.shields.io/github/license/username/repository)
 ![Platform](https://img.shields.io/badge/platform-Web-blue)
 ![Extension](https://img.shields.io/chrome-web-store/v/ljgfdfgcjjeefblpnhjjmapccgpfnihk)
 
