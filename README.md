@@ -33,8 +33,6 @@ The stock target price is calculated using the [**Discounted Cash Flow Model**](
 
 If you prefer not to build your app manually, you can use my [**Google Chrome Extension Stock Analyzer**](https://chromewebstore.google.com/detail/stock-analyzer/ljgfdfgcjjeefblpnhjjmapccgpfnihk) to calculate stock target prices, set stop-loss, and take-profit levels.
 
-![Stock Analyzer Extension](https://user-images.githubusercontent.com/your-image.png)
-
 ---
 
 ## 📺 Video Guidance
