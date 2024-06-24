@@ -43,6 +43,10 @@ Watch the [**video guide**](https://youtu.be/ShrmJUhj7N0?si=QZYrdBjIHA7xoiPM) on
 
 ---
 
+Support my launch on ProductHunt https://www.producthunt.com/products/stock-analyzer
+
+---
+
 ## 🔗 Useful Links
 
 - [**Get your custom API key**](https://site.financialmodelingprep.com/pricing-plans?couponCode=sanzhi)
