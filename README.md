@@ -1,21 +1,3 @@
-Do not forget to get your <a href="https://site.financialmodelingprep.com/pricing-plans?couponCode=sanzhi">custom API key</a> to fetch the data. 
-
-Read my article to learn <a href="https://site.financialmodelingprep.com/how-to/How-to-set-StopLoss-and-TakeProfit-for-your-selected-stock-">how to set Stop-Loss and Take-Profit</a> manually usign standard deviation and your risk appetite. The app uses the same principle of setting SL and TP. 
-
-The stock target price is calculated using the <a href="https://site.financialmodelingprep.com/discounted-cash-flow-blogs/Calculate-Stock-Target-Price-Using-Discounted-Cash-Flow-Model-and-JavaScript">Discounted Cash Flow Model</a> 
-
-For those who is not a programmer, here is how to make your app running:
-1. Download VScode.
-2. Clone my github repository.
-3. Drag index.html file to the open browser window.
-
-If after reading my guidance you still don't want to build your app manually, you can use my <a href="https://chromewebstore.google.com/detail/stock-analyzer/ljgfdfgcjjeefblpnhjjmapccgpfnihk">Google Chrome Extension Stock Analyzer</a> to calculate stock target prices, set stop-loss and take-profit levels. 
-
-Video guidance on <a href="https://youtu.be/ShrmJUhj7N0?si=QZYrdBjIHA7xoiPM">how to analyze stocks</a> using this extension. 
-
-
-----
-
 # 📈 Stock Analyzer App
 
 ![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social)
