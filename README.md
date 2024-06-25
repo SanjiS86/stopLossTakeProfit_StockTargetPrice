@@ -21,7 +21,7 @@ The stock target price is calculated using the [**Discounted Cash Flow Model**](
 1. **Download [Visual Studio Code](https://code.visualstudio.com/).**
 2. **Clone my GitHub repository.**
     ```sh
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/SanjiS86/stopLossTakeProfit_StockTargetPrice
     ```
 3. **Drag the `index.html` file to an open browser window.**
 
