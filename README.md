@@ -49,8 +49,8 @@ Support my launch on ProductHunt https://www.producthunt.com/posts/stock-analyze
 
 ## 👩🏻‍💻 Stock express analysis using Stock Analyzer Chrome extension 
 
-[**Amazon (AMZN) shares**](https://youtu.be/P1hNG82iWes)
-[**Micron Technology (MU) shares**](https://youtu.be/EEsBoxmU1Mg)
+- [**Amazon (AMZN) shares**](https://youtu.be/P1hNG82iWes)
+- [**Micron Technology (MU) shares**](https://youtu.be/EEsBoxmU1Mg)
 
 ---
 
