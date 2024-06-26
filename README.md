@@ -43,7 +43,7 @@ Watch the [**video guide**](https://youtu.be/ShrmJUhj7N0?si=QZYrdBjIHA7xoiPM) on
 
 ---
 
-Support my launch on ProductHunt https://www.producthunt.com/products/stock-analyzer
+Support my launch on ProductHunt https://www.producthunt.com/posts/stock-analyzer
 
 ---
 
