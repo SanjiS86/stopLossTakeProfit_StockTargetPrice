@@ -43,10 +43,6 @@ Watch the [**video guide**](https://youtu.be/ShrmJUhj7N0?si=QZYrdBjIHA7xoiPM) on
 
 ---
 
-Support my launch on ProductHunt https://www.producthunt.com/posts/stock-analyzer
-
----
-
 ## 👩🏻‍💻 Stock express analysis using Stock Analyzer Chrome extension 
 
 - [**Amazon (AMZN) shares**](https://youtu.be/P1hNG82iWes)
