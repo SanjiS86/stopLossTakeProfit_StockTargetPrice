@@ -47,6 +47,7 @@ Watch the [**video guide**](https://youtu.be/ShrmJUhj7N0?si=QZYrdBjIHA7xoiPM) on
 
 - [**Amazon (AMZN) shares**](https://youtu.be/P1hNG82iWes)
 - [**Micron Technology (MU) shares**](https://youtu.be/EEsBoxmU1Mg)
+- [**Visa (V) shares**](https://youtu.be/mbpNLuZutFU?si=NmOd2mdjr9dhRpoA)
 
 ---
 
