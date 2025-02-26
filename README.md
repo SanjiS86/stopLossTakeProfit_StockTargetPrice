@@ -53,7 +53,7 @@ Watch the [**video guide**](https://youtu.be/ShrmJUhj7N0?si=QZYrdBjIHA7xoiPM) on
 
 ## 📈 best stock prediction app 
 
-If you are searching for the <a href="https://www.stocks2buynow.com">[**best undervalued stocks to buy now**]
+If you are searching for the <a href="https://www.stocks2buynow.com">**best undervalued stocks to buy now**
 </a>, and forecasting stock prices, try using the Stocks 2 Buy app. 
 
 ---
