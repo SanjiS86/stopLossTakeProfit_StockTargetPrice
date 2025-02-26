@@ -51,6 +51,13 @@ Watch the [**video guide**](https://youtu.be/ShrmJUhj7N0?si=QZYrdBjIHA7xoiPM) on
 
 ---
 
+## 📈 best stock prediction app 
+
+If you are searching for the <a href="https://www.stocks2buynow.com">[**best undervalued stocks to buy now**]
+</a>, and forecasting stock prices, try using the Stocks 2 Buy app. 
+
+---
+
 ## 🔗 Useful Links
 
 - [**Get your custom API key**](https://site.financialmodelingprep.com/pricing-plans?couponCode=sanzhi)
